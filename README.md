@@ -12,7 +12,7 @@ Lentera Pasar Malam — a spot-the-difference game set in an Indonesian night ma
 node serve.ts
 ```
 
-Then open http://localhost:8080 in a desktop browser. Click a difference on either picture, or steer the reticle with the arrow keys, Tab to switch pictures, Enter to mark, H for a hint, P to pause.
+Then open http://localhost:8080 in a desktop browser. Click a difference on either picture, or steer the reticle with the arrow keys, Tab to switch pictures, Enter to mark, H for a hint, P to pause. The HUD counts down how many differences remain; wrong clicks cost 3 seconds.
 
 ---
 
